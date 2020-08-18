@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=WinMessage()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ WinMessage\r\n
+comment1.params=message\ title
+comment1.target=void\ messageBox(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Creates\ a\ pop\ up\ message\ with\ speficied\ text\r\n\ \r\n\ @param\ message\ the\ body\ of\ the\ message\r\n\ @param\ title\ the\ message's\ title\ or\ header\r\n
+numComments=2
